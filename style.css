@@ -92,12 +92,14 @@ span{
 }
  
 /* Bottom  Design*/
-.bottom{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     position: relative;
     background-image: url(./images/bg-pattern-bottom-mobile.svg);
     width: 100%;
     height: 50%;
-}
 
 .holderAll{
     position: relative;
