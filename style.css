@@ -205,4 +205,14 @@ span{
     .star-container .star-three{
         margin-left: 2rem;
     }
+    .second-container {
+        margin-top: 1.5rem;
+    }
+    
+    .third-container {
+        margin-top: 1.5rem;
+    }
+    .holderAll{
+        width: 350px;
+        height: 220px;}
 }
