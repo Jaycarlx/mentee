@@ -17,8 +17,8 @@ html{
 }
 body{
     background-color: hsl(300, 24%, 96%);
-    padding-inline: 40px;
-    
+    padding: 4rem;
+    font-family: 'League Spartan', sans-serif;
 }
 /* Top Design */
 .container{
@@ -33,7 +33,8 @@ body{
 }
 
 .top .header-texts h1{
-    font-size: 2rem;
+    font-size: 2.5rem;
+    font-weight: 700;
 /*     text-align: center; */
     color: hsl(300, 43%, 22%);
     margin-block-end: 1rem;
@@ -42,6 +43,8 @@ body{
     font-size: 1.1rem;
 /*     text-align: center; */
     color: hsl(300, 43%, 22%);
+    font-weight: 400;
+    width: 15rem;
     margin-block-end: 1rem;
 }
 
